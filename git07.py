@@ -1,7 +1,7 @@
-num = float(input("Ingrese un número: "))
+num = float(input("Ingrese un numero: "))
 if num > 0:
-    print(f"El número {num} es positivo.")
+    print(f"El numero {num} es positivo.")
 elif num < 0:
-    print(f"El número {num} es negativo.")
+    print(f"El numero {num} es negativo.")
 else:
-    print(f"El número es cero.")
+    print(f"El numero es cero.")

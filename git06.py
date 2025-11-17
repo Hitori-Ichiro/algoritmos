@@ -1,5 +1,5 @@
-num = float(input("Ingrese un número: "))
-if num > 0:
-    print(f"El número {num} es positivo.")
-elif num < 0:
-    print(f"El número {num} es negativo.")
+edad = int(input("Introduce tu edad: "))        
+if edad >= 18:
+    print("Eres mayor de edad")
+else:
+    print("Eres menor de edad")
