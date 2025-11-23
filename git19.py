@@ -5,4 +5,3 @@ elif 40 <= velocidad <= 80:
     print("Velocidad Normal")
 else:
     print("Velocidad Alta")
-    

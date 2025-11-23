@@ -8,5 +8,4 @@ elif 18.5 <= imc < 24.9:
 elif 25 <= imc < 29.9:
     clasificacion = "Sobrepeso"
 else:
-    clasificacion = "Obesidad"
-    
+    clasificacion = "Obesidad"   

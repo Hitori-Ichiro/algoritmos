@@ -4,4 +4,3 @@ if mes in cicloEscolar:
     print(f"El mes de {mes} está dentro del ciclo escolar.")
 else:
     print(f"El mes de {mes} está en vacaciones.")
-    

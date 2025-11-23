@@ -14,4 +14,3 @@ elif num2 % num1 == 0:
     print(f"{num2} es múltiplo de {num1}.")
 else:
     print("Ninguno es múltiplo del otro.")
-    

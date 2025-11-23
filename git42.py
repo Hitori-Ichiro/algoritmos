@@ -12,4 +12,3 @@ elif 60 <= notaFinal < 70:
     print("D")
 else:
     print("F")
-    
