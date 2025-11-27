@@ -1,4 +1,3 @@
-#Pide una temperatura y clasifícala como "Muy frío", "Frío", "Tibio", "Caliente", o "Muy caliente".
 temperatura = float(input("Ingrese la temperatura en grados Celsius: "))
 if temperatura < 0:
     print("muy frío")
